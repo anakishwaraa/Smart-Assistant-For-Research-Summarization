@@ -1,18 +1,34 @@
 # Smart-Assistant-For-Research-Summarization
 ---------Project Structure------
 SmartAssistant/
+
+
 │
+
 ├── app/
+
 │   ├── main.py
+
 │   ├── utils.py
+
 │   └── requirements.txt
+
+
 │
+
 ├── frontend/
+
 │   ├── index.html
+
 │   ├── styles.css
+
 │   └── script.js
+
+
 │
+
 ├── README.md
+
 
  -----------------Submission Instructions---------------
  # Smart Assistant for Research Summarization
